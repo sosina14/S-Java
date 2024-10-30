@@ -16,7 +16,7 @@ class Sumofdigits{
         {
             System.out.println("The order of "+ num1 + num2 + num3 + "  is " + num3 +" "+ num2 +" "+ num1 );
             };
-        if(num1 < num2 && num2 < num3)
+       /* if(num1 < num2 && num2 < num3)
         {
             System.out.println("The order of "+ num1 + num2 + num3 + "  is " + num1 + num2 + num3 );
         };
@@ -37,7 +37,7 @@ class Sumofdigits{
         {
             System.out.println("The order of "+ num1 + num2 + num3 + "  is " + num1 + num2 + num3 );
         };
-
+*/
         
         
 }
