@@ -1,0 +1,2 @@
+/*Write a program that prompts the user to enter a list and displays whether the list is sorted
+or not.*/
