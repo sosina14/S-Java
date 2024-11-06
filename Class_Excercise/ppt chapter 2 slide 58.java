@@ -25,3 +25,22 @@ class Sosi {
     }
 }
 */
+/* QUE 3 , Write a program that reads an integer value and prints the sum of all even integers between 2 and the input value, inclusive. Print an error message if the input value is less than 2. 
+*/
+import java.util.Scanner;
+class Sosi {
+    public static void main(String[] args){
+         Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter number to find the numbers between 2 and it    \n Enter the number ");
+        int n1 = scanner.nextInt();
+       if (n1 >= 2){
+        for (int i = 2 ; i <= n1 ; i++){
+            System.out.print(" " + i);
+        }
+       }
+        else {
+            System.out.print("ERROR" );
+        }
+       
+    }
+}
