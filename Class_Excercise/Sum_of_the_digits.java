@@ -1,4 +1,4 @@
-//  Que 1,  sum of the digit
+//  Que 4 OF CHAPTER 2 PPT SLIDE 58 ,  sum of the digit
 import java.util.Scanner;
 class Sumofdigits{
     public static void main(String[] args){
